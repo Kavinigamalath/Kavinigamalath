@@ -74,7 +74,7 @@ I am passionate about developing **innovative solutions** and always eager to pu
 <p align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-streak-stats.herokuapp.com/?user=Kavinigamalath&theme=dark">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kavini's GitHub Streak" 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=Kavinigamalath&theme=dark&hide_border=false" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=Kavinigamalath&theme=dark&hide_border=false&random={{timestamp}}" 
          style="max-width: 100%;">
   </a>
 </p>
@@ -85,7 +85,7 @@ I am passionate about developing **innovative solutions** and always eager to pu
 <p align="center">
   
 <img align="center" width="50%" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinigamalath&layout=compact&theme=dark&langs_count=10&random={{timestamp}}" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinigamalath&layout=compact&theme=dark&count_private=true&langs_count=10&random={{timestamp}}" 
   alt="Most Used Languages"/>
 
 

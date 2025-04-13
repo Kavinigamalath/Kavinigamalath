@@ -5,9 +5,9 @@ I'm a **Software Engineering** student at the **Sri Lanka Institute of Informati
 💡 I’m always eager to push the boundaries of technology and develop **innovative solutions** through **open-source projects**, **coding challenges**, and **collaborations**.
 
 ## 💬 Ask Me About:
-- **Web Development**: 🌐 Crafting **dynamic**, **responsive**, and **scalable** web applications with the latest technologies.  
-- **AI**: 🤖 Exploring the world of **machine learning**, **deep learning**, and **automation**.  
-- **Mobile App Development**: 📱 Building **innovative**, **cross-platform** mobile apps with **React Native** and other technologies to deliver seamless experiences.
+- **Web Development**
+- **AI**  
+- **Mobile App Development**
 
 ## 🌍 Connect with Me:
 <p align="center">
@@ -52,7 +52,7 @@ I'm a **Software Engineering** student at the **Sri Lanka Institute of Informati
 ## 📊 GitHub Stats:
 
 <p align="center">
-  ![Kavini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavinigamalath&show_icons=true&count_private=true&hide=prs&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavinigamalath&show_icons=true&count_private=true&hide=prs&theme=dark" alt="Kavini's GitHub Stats"/>
 </p>
 
 ---
@@ -60,7 +60,7 @@ I'm a **Software Engineering** student at the **Sri Lanka Institute of Informati
 ## 🔥 Streak Stats:
 
 <p align="center">
-  ![Kavini's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kavinigamalath&theme=dark)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavinigamalath&theme=dark" alt="Kavini's GitHub Streak"/>
 </p>
 
 ---
@@ -68,20 +68,25 @@ I'm a **Software Engineering** student at the **Sri Lanka Institute of Informati
 ## 🗣️ Most Used Languages:
 
 <p align="center">
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinigamalath&layout=compact&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinigamalath&layout=compact&theme=dark" alt="Most Used Languages"/>
 </p>
 
 ---
 
 ### 🚀 Let’s Collaborate:
 I’m always open to **new projects**, **open-source collaborations**, and **learning from others**. Let’s connect and build something amazing!  
-🔗 Feel free to reach out via **[email](mailto:kavinigamalath@gmail.com)** or **[GitHub](https://github.com/Kavinigamalath)**!
+🔗 Feel free to reach out via **[email](mailto:kavinigamalathofficial@gmail.com)** or **[GitHub](https://github.com/Kavinigamalath)**!
 
 ---
 
 ### 🤖 Fun Animation:
 
-```html
 <p align="center">
   <img src="https://media.giphy.com/media/26AOSa7xduTfOpv6c/giphy.gif" alt="Coding Animation" width="300"/>
 </p>
+
+---
+
+### 🏆 Recognition:
+Currently building my expertise and expanding my network.  
+I look forward to sharing my journey and growing with the tech community! 🌍

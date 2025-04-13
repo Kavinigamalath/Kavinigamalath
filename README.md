@@ -79,7 +79,8 @@ I am passionate about developing **innovative solutions** and always eager to pu
 ### 🗣️ Most Used Languages:
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinigamalath&layout=compact&theme=dark" alt="Most Used Languages"/>
+<img align="center" width="50%" src="https://camo.githubusercontent.com/86b6cb963dd53250ebbbf149ac2001d95b6472efc858c796c2d450d7ee3f8438/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b6176696e6967616d616c617468267468656d653d6461726b26686964655f626f726465723d66616c7365266e6f2d62673d74727565266e6f2d6672616d653d74727565266c616e67735f636f756e743d3130" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinigamalath&layout=compact&theme=dark" style="max-width: 100%;">
+
 </p>
 
 ---

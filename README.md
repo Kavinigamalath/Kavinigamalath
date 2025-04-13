@@ -1,12 +1,43 @@
-- 👋 Hi, I’m @Kavinigamalath
-- 👀 I’m interested in coding, particularly in  web development, AI, game development.
-- 🌱 I’m currently learning at Sri Lanka Institute of Information Technology (SLIIT), focusing on Software Engineering
-- 💞️ I’m looking to collaborate on open-source projects, coding challenges, or any interesting tech projects that can help me grow my skills and network.
-- 📫 How to reach me: You can contact me via kavinigamalath@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love music!
+## Hi 👋, I'm **Kavini Gamalath**
 
-<!---
-Kavinigamalath/Kavinigamalath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌱 About Me:
+I’m a **Software Engineering** student at **Sri Lanka Institute of Information Technology (SLIIT)**, focusing on **web development**, **AI**, and **game development**. I'm passionate about coding and eager to grow my skills through **open-source projects**, **coding challenges**, and **collaborative tech initiatives**.
+
+### 💬 Ask Me About:
+- **Web Development** – Creating dynamic and responsive web apps.
+- **AI** – Diving into machine learning, deep learning, and automation.
+- **Game Development** – Crafting engaging gaming experiences.
+
+### 🌍 Connect with Me:
+- **Email**: [kavinigamalath@gmail.com](mailto:kavinigamalath@gmail.com)
+- **GitHub**: [Kavini Gamalath](https://github.com/Kavinigamalath)
+
+### 🛠️ Languages & Tools:
+- **Languages**: 
+  - **Python**, **JavaScript**, **Java**, **HTML5**, **CSS3**
+- **Technologies**: 
+  - **React**, **Node.js**, **MongoDB**, **MySQL**, **Express**
+- **Tools**:
+  - **Git**, **GitHub**, **Vite**, **Docker**
+
+### 🎶 Fun Fact:
+I love music and explore how technology and music can blend, especially in game audio and AI-driven music.
+
+---
+
+### GitHub Stats:
+
+![Kavini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavinigamalath&show_icons=true&count_private=true&hide=prs&theme=dark)
+
+---
+
+### Streak Stats:
+
+![Kavini's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kavinigamalath&theme=dark)
+
+---
+
+### Most Used Languages:
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinigamalath&layout=compact&theme=dark)
+

@@ -8,7 +8,7 @@ I am passionate about developing **innovative solutions** and always eager to pu
 
 ### 🌟 Connect with Me:
 <p align="center">
-  <a href="mailto:kavinigamalath@gmail.com" target="_blank">
+  <a href="mailto:kavinigamalathofficial@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Kavinigamalath" target="_blank">
@@ -88,11 +88,4 @@ I’m always open to **new projects**, **open-source collaborations**, and **lea
 
 ### 🎯 Recognition:
 Currently building my expertise and expanding my network.  
-I look forward to sharing my journey and growing with the tech community! 🌍
-
----
-
-### ⚡ Profile Animation:
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0Gqd0l2TzNuV5a4A/giphy.gif" alt="Profile Animation" width="300" />
-</p>
+I look forward to sharing my journey and growing with the tech community! 

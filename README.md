@@ -6,8 +6,9 @@ I'm a **Software Engineering** student at the **Sri Lanka Institute of Informati
 
 ## 💬 Ask Me About:
 - **Web Development**
-- **AI**  
 - **Mobile App Development**
+- **AI**  
+
 
 ## 🌍 Connect with Me:
 <p align="center">

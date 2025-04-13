@@ -65,7 +65,7 @@ I am passionate about developing **innovative solutions** and always eager to pu
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavinigamalath&show_icons=true&count_private=true&hide=prs&theme=dark&locale=en" alt="Kavini's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavinigamalath&show_icons=true&count_private=true&hide=prs&theme=dark&locale=en&random={{timestamp}}" alt="Kavini's GitHub Stats"/>
 </p>
 
 ---
@@ -84,7 +84,9 @@ I am passionate about developing **innovative solutions** and always eager to pu
 ### 🗣️ Most Used Languages:
 <p align="center">
   
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinigamalath&layout=compact&theme=dark&langs_count=10&cachebust=1" alt="Most Used Languages"/>
+<img align="center" width="50%" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinigamalath&layout=compact&theme=dark&langs_count=10&random={{timestamp}}" 
+  alt="Most Used Languages"/>
 
 
 </p>

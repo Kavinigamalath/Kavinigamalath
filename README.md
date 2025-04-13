@@ -24,31 +24,30 @@ I'm a **Software Engineering** student at the **Sri Lanka Institute of Informati
 
 ### Languages:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" width="120"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" width="120"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" width="120"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" width="120"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" width="120" style="filter: saturate(3);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" width="120" style="filter: saturate(3);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" width="120" style="filter: saturate(3);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" width="120" style="filter: saturate(3);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" width="120" style="filter: saturate(3);"/>
 </p>
 
 ### Technologies:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" width="120"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/node-dot-js.svg" width="120"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" width="120"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" width="120"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/express.svg" width="120"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/reactnative.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" width="120" style="filter: saturate(3);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/node-dot-js.svg" width="120" style="filter: saturate(3);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" width="120" style="filter: saturate(3);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" width="120" style="filter: saturate(3);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/express.svg" width="120" style="filter: saturate(3);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/reactnative.svg" width="120" style="filter: saturate(3);"/>
 </p>
 
 ### Tools:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" width="120"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" width="120"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vite.svg" width="120"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" width="120" style="filter: saturate(3);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" width="120" style="filter: saturate(3);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vite.svg" width="120" style="filter: saturate(3);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" width="120" style="filter: saturate(3);"/>
 </p>
-
 ---
 
 ## 📊 GitHub Stats:

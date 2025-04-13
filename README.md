@@ -20,33 +20,33 @@ I'm a **Software Engineering** student at the **Sri Lanka Institute of Informati
   </a>
 </p>
 
-## 🛠️ Languages & Tools:
+### 🛠️ Languages & Tools:
 
-### Languages:
+#### Languages:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/python.svg" width="120" alt="Python" title="Python - #3776AB"/>
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/javascript.svg" width="120" alt="JavaScript" title="JavaScript - #F7DF1E"/>
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/java.svg" width="120" alt="Java" title="Java - #007396"/>
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/html5.svg" width="120" alt="HTML5" title="HTML5 - #E34F26"/>
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/css3.svg" width="120" alt="CSS3" title="CSS3 - #1572B6"/>
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/python.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/javascript.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/java.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/html5.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/css3.svg" width="120"/>
 </p>
 
-### Technologies:
+#### Technologies:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/react.svg" width="120" alt="React" title="React - #61DAFB"/>
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/node-js.svg" width="120" alt="Node.js" title="Node.js - #339933"/>
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/mongodb.svg" width="120" alt="MongoDB" title="MongoDB - #47A248"/>
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/mysql.svg" width="120" alt="MySQL" title="MySQL - #4479A1"/>
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/express.svg" width="120" alt="Express" title="Express - #000000"/>
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/react.svg" width="120" alt="React" title="React - #61DAFB"/>
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/react.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/node-js.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/mongodb.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/mysql.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/express.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/react.svg" width="120"/>
 </p>
 
-### Tools:
+#### Tools:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/git.svg" width="120" alt="Git" title="Git - #F05032"/>
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/github.svg" width="120" alt="GitHub" title="GitHub - #181717"/>
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/vite.svg" width="120" alt="Vite" title="Vite - #646CFF"/>
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/docker.svg" width="120" alt="Docker" title="Docker - #2496ED"/>
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/git.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/github.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/vite.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/docker.svg" width="120"/>
 </p>
 ---
 

@@ -21,32 +21,27 @@ I'm a **Software Engineering** student at the **Sri Lanka Institute of Informati
 </p>
 
 ## 🛠️ Languages & Tools:
-- **Languages**:
-  <p align="center">
-    ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-    ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
-    ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
-    ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
-  </p>
 
-- **Technologies**:
-  <p align="center">
-    ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-    ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
-    ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-    ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-    ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
-    ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react)
-  </p>
+### Languages:
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) 
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java) 
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5) 
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
 
-- **Tools**:
-  <p align="center">
-    ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-    ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-    ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite)
-    ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-  </p>
+### Technologies:
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) 
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql) 
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express) 
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react)
+
+### Tools:
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) 
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 
 ---
 

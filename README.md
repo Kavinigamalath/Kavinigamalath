@@ -64,7 +64,7 @@ I am passionate about developing **innovative solutions** and always eager to pu
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavinigamalath&show_icons=true&count_private=true&hide=prs&theme=dark" alt="Kavini's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavinigamalath&show_icons=true&count_private=true&hide=prs&theme=dark&locale=en" alt="Kavini's GitHub Stats"/>
 </p>
 
 ---

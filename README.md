@@ -1,6 +1,6 @@
 # Hi, I'm **Kavini Gamalath** 👋
 
-### 🌱 About Me:
+###  About Me:
 I'm a **Software Engineering** student at **Sri Lanka Institute of Information Technology (SLIIT)**, focusing on **web development**, **AI**, and **mobile app development**.  
 I am passionate about developing **innovative solutions** and always eager to push the boundaries of technology through **open-source projects**, **coding challenges**, and **collaborations**.
 

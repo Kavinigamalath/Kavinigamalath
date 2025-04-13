@@ -24,29 +24,30 @@ I'm a **Software Engineering** student at the **Sri Lanka Institute of Informati
 
 ### Languages:
 <p align="center">
-  <img src="https://iconmonstr.com/icons/python/" width="120" />
-  <img src="https://iconmonstr.com/icons/javascript/" width="120" />
-  <img src="https://iconmonstr.com/icons/java/" width="120" />
-  <img src="https://iconmonstr.com/icons/html5/" width="120" />
-  <img src="https://iconmonstr.com/icons/css3/" width="120" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
 </p>
 
 ### Technologies:
 <p align="center">
-  <img src="https://iconmonstr.com/icons/react/" width="120" />
-  <img src="https://iconmonstr.com/icons/node-js/" width="120" />
-  <img src="https://iconmonstr.com/icons/mongodb/" width="120" />
-  <img src="https://iconmonstr.com/icons/mysql/" width="120" />
-  <img src="https://iconmonstr.com/icons/express/" width="120" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40" />
 </p>
 
 ### Tools:
 <p align="center">
-  <img src="https://iconmonstr.com/icons/git/" width="120" />
-  <img src="https://iconmonstr.com/icons/github/" width="120" />
-  <img src="https://iconmonstr.com/icons/vite/" width="120" />
-  <img src="https://iconmonstr.com/icons/docker/" width="120" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
 </p>
+
 ---
 
 ## 📊 GitHub Stats:

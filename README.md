@@ -24,29 +24,29 @@ I'm a **Software Engineering** student at the **Sri Lanka Institute of Informati
 
 ### Languages:
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="120"/>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="120"/>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" width="120"/>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="120"/>
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" width="120"/>
 </p>
 
 ### Technologies:
 <p align="center">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" width="120"/>
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" width="120"/>
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" width="120"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="120"/>
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" width="120"/>
-  <img src="https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&logo=react&logoColor=white" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/node-dot-js.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/express.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/reactnative.svg" width="120"/>
 </p>
 
 ### Tools:
 <p align="center">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" width="120"/>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" width="120"/>
-  <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" width="120"/>
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vite.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" width="120"/>
 </p>
 
 ---

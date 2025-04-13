@@ -1,7 +1,7 @@
 # Hi, I'm **Kavini Gamalath** 👋
 
 ###  About Me:
-I'm a **Software Engineering** student at **Sri Lanka Institute of Information Technology (SLIIT)**, focusing on **web development**, **AI**, and **mobile app development**.  
+I'm a **Software Engineering** student at **Sri Lanka Institute of Information Technology (SLIIT)**, focusing on **web development**, **AI-powered web development**, and **mobile app development**.  
 I am passionate about developing **innovative solutions** and always eager to push the boundaries of technology through **open-source projects**, **coding challenges**, and **collaborations**.
 
 ---
@@ -25,7 +25,7 @@ I am passionate about developing **innovative solutions** and always eager to pu
 <p align="center">
   <span style="font-size: 18px; color: #61DAFB; font-weight: bold;">💻 **Web Development**</span> |  
   <span style="font-size: 18px; color: #F7DF1E; font-weight: bold;">📱 **Mobile App Development**</span> |  
-  <span style="font-size: 18px; color: #2496ED; font-weight: bold;">🤖 **AI**</span>
+  <span style="font-size: 18px; color: #2496ED; font-weight: bold;">🤖 **AI-powered web development**</span>
 </p>
 
 ---
@@ -65,7 +65,8 @@ I am passionate about developing **innovative solutions** and always eager to pu
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavinigamalath&show_icons=true&count_private=true&hide=prs&theme=dark&locale=en&random={{timestamp}}" alt="Kavini's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavinigamalath&show_icons=true&count_private=true&hide=prs&theme=dark&locale=en&random={{timestamp}}" alt="Kavini's GitHub Stats"
+style="max-width: 200%;"/>
 </p>
 
 ---
@@ -75,7 +76,7 @@ I am passionate about developing **innovative solutions** and always eager to pu
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-streak-stats.herokuapp.com/?user=Kavinigamalath&theme=dark">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kavini's GitHub Streak" 
          src="https://github-readme-streak-stats.herokuapp.com/?user=Kavinigamalath&theme=dark&hide_border=false&random={{timestamp}}" 
-         style="max-width: 100%;">
+         style="max-width: 200%;">
   </a>
 </p>
 
@@ -83,12 +84,8 @@ I am passionate about developing **innovative solutions** and always eager to pu
 
 ### 🗣️ Most Used Languages:
 <p align="center">
-  
-<img align="center" width="50%" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinigamalath&layout=compact&theme=dark&count_private=true&langs_count=10&random={{timestamp}}" 
-  alt="Most Used Languages"/>
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinigamalath&layout=compact&theme=dark&count_private=true&langs_count=10&random={{timestamp}}" 
+  alt="Most Used Languages" style="max-width: 200%;" >
 </p>
 
 ---

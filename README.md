@@ -84,7 +84,7 @@ I am passionate about developing **innovative solutions** and always eager to pu
 ### 🗣️ Most Used Languages:
 <p align="center">
   
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinigamalath&layout=compact&theme=dark&langs_count=10" alt="Most Used Languages"/>
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinigamalath&layout=compact&theme=dark&langs_count=10&cachebust=1" alt="Most Used Languages"/>
 
 
 </p>

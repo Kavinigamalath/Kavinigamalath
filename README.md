@@ -71,7 +71,11 @@ I am passionate about developing **innovative solutions** and always eager to pu
 
 ### 🔥 Streak Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavinigamalath&theme=dark" alt="Kavini's GitHub Streak"/>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-streak-stats.herokuapp.com/?user=Kavinigamalath&theme=dark">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kavini's GitHub Streak" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=Kavinigamalath&theme=dark&hide_border=false" 
+         style="max-width: 100%;">
+  </a>
 </p>
 
 ---

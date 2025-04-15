@@ -73,10 +73,8 @@ style="max-width: 200%;"/>
 
 ### 🔥 Streak Stats:
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-streak-stats.herokuapp.com/?user=Kavinigamalath&theme=dark">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kavini's GitHub Streak" 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=Kavinigamalath&theme=dark&hide_border=false&random={{timestamp}}" 
-         style="max-width: 200%;">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Kavinigamalath&theme=dark&hide_border=false">
+    <img alt="Kavini's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavinigamalath&theme=dark&hide_border=false">
   </a>
 </p>
 

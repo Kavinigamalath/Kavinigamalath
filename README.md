@@ -1,4 +1,8 @@
 # Hi, I'm **Kavini Gamalath** 👋
+<p>
+<img align="right" src="https://komarev.com/ghpvc/?username=Kavinigamalath&label=Profile%20Views&color=0e75b6" />
+</p>
+<br>
 
 ###  About Me:
 I'm a **Software Engineering** student at **Sri Lanka Institute of Information Technology (SLIIT)**, focusing on **web development**, **AI-powered web development**, and **mobile app development**.  
@@ -73,8 +77,10 @@ style="max-width: 200%;"/>
 
 ### 🔥 Streak Stats:
 <p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Kavinigamalath&theme=dark&hide_border=false">
-    <img alt="Kavini's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavinigamalath&theme=dark&hide_border=false">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-streak-stats.herokuapp.com/?user=Kavinigamalath&theme=dark">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kavini's GitHub Streak" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=Kavinigamalath&theme=dark&hide_border=false&random={{timestamp}}" 
+         style="max-width: 200%;">
   </a>
 </p>
 
@@ -87,6 +93,14 @@ style="max-width: 200%;"/>
 </p>
 
 ---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kavinigamalath&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Kavini's GitHub Trophies" />
+  </a>
+</p>
 
 ### 🚀 Let’s Collaborate:
 I’m always open to **new projects**, **open-source collaborations**, and **learning from others**. Let’s connect and build something amazing!  

@@ -1,6 +1,6 @@
 # Hi, I'm **Kavini Gamalath** 👋
 <p>
-<img align="right" src="https://komarev.com/ghpvc/?username=Kavinigamalath&label=Profile%20Views&color=0e75b6" />
+<img src="https://komarev.com/ghpvc/?username=Kavinigamalath&label=👁️+Profile+Views&color=4169E1&style=for-the-badge&labelColor=black" alt="Kavini's views" />
 </p>
 <br>
 

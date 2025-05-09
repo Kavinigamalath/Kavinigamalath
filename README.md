@@ -27,9 +27,9 @@ I am passionate about developing **innovative solutions** and always eager to pu
 
 ### 💬 Ask Me About:
 <p align="center">
-  <span style="font-size: 18px; color: #61DAFB; font-weight: bold;">💻 **Web Development**</span> |  
-  <span style="font-size: 18px; color: #F7DF1E; font-weight: bold;">📱 **Mobile App Development**</span> |  
-  <span style="font-size: 18px; color: #2496ED; font-weight: bold;">🤖 **AI-powered web development**</span>
+  <span style="font-size: 18px; color: #61DAFB; font-weight: bold;">💻 Web Development</span> |  
+  <span style="font-size: 18px; color: #F7DF1E; font-weight: bold;">📱 Mobile App Development</span> |  
+  <span style="font-size: 18px; color: #2496ED; font-weight: bold;">🤖 AI-powered web development</span>
 </p>
 
 ---

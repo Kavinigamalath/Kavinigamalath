@@ -73,7 +73,7 @@ I am passionate about developing **innovative solutions** and always eager to pu
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavinigamalath&show_icons=true&count_private=true&hide=prs&theme=dark&locale=en&random={{timestamp}}" alt="Kavini's GitHub Stats"
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavinigamalath&show_icons=true&count_private=true&hide=prs&theme=dark&locale=en" alt="Kavini's GitHub Stats"
 style="max-width: 200%;"/>
 </p>
 
@@ -83,7 +83,7 @@ style="max-width: 200%;"/>
 <p align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-streak-stats.herokuapp.com/?user=Kavinigamalath&theme=dark">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kavini's GitHub Streak" 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=Kavinigamalath&theme=dark&hide_border=false&random={{timestamp}}" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=Kavinigamalath&theme=dark&hide_border=false" 
          style="max-width: 200%;">
   </a>
 </p>
@@ -92,7 +92,7 @@ style="max-width: 200%;"/>
 
 ### 🗣️ Most Used Languages:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinigamalath&layout=compact&theme=dark&count_private=true&langs_count=10&random={{timestamp}}" 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinigamalath&layout=compact&theme=dark&count_private=true&langs_count=20" 
   alt="Most Used Languages" style="max-width: 200%;" >
 </p>
 

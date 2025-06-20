@@ -90,6 +90,18 @@ style="max-width: 200%;"/>
 
 ---
 
+### 🔥 Streak Stats:
+<p align="center">
+  <a href="https://github.com/Kavinigamalath">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats"
+         alt="Kavini's GitHub Streak"
+         src="https://github-readme-streak-stats.vercel.app?user=Kavinigamalath&theme=dark&hide_border=false"
+         style="max-width: 200%;">
+  </a>
+</p>
+
+---
+
 ### 🗣️ Most Used Languages:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinigamalath&layout=compact&theme=dark&count_private=true&langs_count=20" 
